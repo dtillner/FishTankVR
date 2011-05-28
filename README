@@ -1,0 +1,3 @@
+Fish Tank VR
+
+A small Fish Tank VR application made with QT, QGLViewer and OpenCV. It uses real time head tracking via webcam to adjust the view to a 3d scene according to the head position of the user.
